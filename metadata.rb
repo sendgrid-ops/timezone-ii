@@ -16,3 +16,5 @@ supports "fedora"
 supports "gentoo"
 supports "ubuntu"
 supports "pld"
+
+chef_version '>= 12.6'
